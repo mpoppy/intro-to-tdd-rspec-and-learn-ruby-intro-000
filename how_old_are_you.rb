@@ -1,5 +1,7 @@
 #new method to see how old are you
 
+require_relative './current_age_for_birth_year.rb'
+
 puts "What year were you born"
 year = gets. to_i
 
